@@ -1,0 +1,25 @@
+# editor / temp
+*~
+*.swp
+*.bak
+*.tmp
+
+# logs and outputs
+*.log
+*.out
+lammps_*.log
+lammps_*.out
+
+# data temp files
+glc_dimer_v3.data.tmp*
+in.dimer_glc.*.tmp*
+dump.*
+grep_matches.txt
+hashes_*.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# OneDrive temp
+~$*

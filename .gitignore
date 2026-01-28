@@ -24,3 +24,8 @@ dump.*
 # large archives
 *.tar.gz
 *.zip
+# generated outputs and hashes
+grep_matches.txt
+hashes_final.txt
+hashes_final2.txt
+hashes_no_write.txt

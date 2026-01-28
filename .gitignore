@@ -11,3 +11,16 @@
 Thumbs.db
 .vscode/
 .idea/
+# backup and temp
+*.bak
+*.tmp
+*~ 
+# specific files
+*.data.tmp*
+*.coeffs_only.tmp*
+# dumps and logs
+dump.*
+*.log
+# large archives
+*.tar.gz
+*.zip

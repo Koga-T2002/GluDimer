@@ -1,0 +1,24 @@
+{
+  "id": "string",
+  "smiles": "string",
+  "name": "string",
+  "forcefield": "AMBER/GAFF2",
+  "prmtop": "mol.prmtop",
+  "lammps_data": "mol.lmp",
+  "energy_summary": {
+    "amber_single_point": null,
+    "lammps_single_point": null,
+    "energy_difference": null
+  },
+  "rmsd_summary": {
+    "initial_vs_relaxed": null,
+    "final_stddev_10ps": null
+  },
+  "score": null,
+  "status": "pass|fail|review",
+  "provenance": {
+    "created_by": "username",
+    "created_at": "YYYY-MM-DDTHH:MM:SSZ",
+    "commands": []
+  }
+}
